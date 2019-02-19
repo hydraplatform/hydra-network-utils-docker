@@ -10,6 +10,8 @@ hydra_base = {git = "https://github.com/hydraplatform/hydra-base.git", ref = "ma
 hydra_network_utils = {git = "https://github.com/hydraplatform/hydra-network-utils.git",ref = "master"}
 fiona = "*"
 shapely = "*"
+openpyxl = "*"
+pandas = "*"
 
 [dev-packages]
 
