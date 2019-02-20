@@ -79,7 +79,7 @@
         },
         "hydra-network-utils": {
             "git": "https://github.com/hydraplatform/hydra-network-utils.git",
-            "ref": "df8c32949224efc4d699cbd9c717dddff03f9daa"
+            "ref": "fc175dbf1b6f39939267a47871c0fc8f40fbe70c"
         },
         "jdcal": {
             "hashes": [
