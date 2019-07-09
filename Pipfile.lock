@@ -79,7 +79,7 @@
         },
         "hydra-network-utils": {
             "git": "https://github.com/hydraplatform/hydra-network-utils.git",
-            "ref": "fb5314b2abc2dd997534f6bc65277bf4d90a23ab"
+            "ref": "286e799fedafbe7b41b5225a2d9b66216f2c7e0e"
         },
         "hydra-pywr-common": {
             "git": "https://github.com/pywr/hydra-pywr-common.git",
