@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "db8e42ee43df9da924d7ea013aacf56de27825bad0a92a025d55b4bb8daa2389"
+            "sha256": "b3bd56bff95db5b7993a98d24830fcb0c70f512168a3055dcd850095b4838a46"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -79,7 +79,11 @@
         },
         "hydra-network-utils": {
             "git": "https://github.com/hydraplatform/hydra-network-utils.git",
-            "ref": "e59f740a51a40db4535248564b517a4f2053abf5"
+            "ref": "64629ae7c20ec7adc6e4c1e73d51089580201afe"
+        },
+        "hydra-pywr-common": {
+            "git": "https://github.com/pywr/hydra-pywr-common.git",
+            "ref": "98c5fcdc0fedf23e5433eae948a9782da13debf8"
         },
         "jdcal": {
             "hashes": [

@@ -8,6 +8,7 @@ click = "*"
 hydra_client = {git = "https://github.com/hydraplatform/hydra-client-python.git",ref = "master"}
 hydra_base = {git = "https://github.com/hydraplatform/hydra-base.git",ref = "master"}
 hydra_network_utils = {git = "https://github.com/hydraplatform/hydra-network-utils.git",ref = "master"}
+hydra_pywr_common = {git = "https://github.com/pywr/hydra-pywr-common.git", ref = "master"}
 fiona = "*"
 shapely = "*"
 openpyxl = "*"
