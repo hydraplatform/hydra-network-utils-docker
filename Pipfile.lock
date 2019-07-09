@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a397b862875ebde8e5d3766e4a599e180d6aa51ffb31e0fa61798012d28277c2"
+            "sha256": "db8e42ee43df9da924d7ea013aacf56de27825bad0a92a025d55b4bb8daa2389"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -71,7 +71,7 @@
         },
         "hydra-base": {
             "git": "https://github.com/hydraplatform/hydra-base.git",
-            "ref": "8c3067179d9868c404c0e052b57de01e838b071c"
+            "ref": "9cb134b653338c9fe44bab245ff2a4c6f8491e7d"
         },
         "hydra-client": {
             "git": "https://github.com/hydraplatform/hydra-client-python.git",
@@ -79,7 +79,7 @@
         },
         "hydra-network-utils": {
             "git": "https://github.com/hydraplatform/hydra-network-utils.git",
-            "ref": "21b9a4840e69d9404fd607daa1b57656ee13254d"
+            "ref": "e59f740a51a40db4535248564b517a4f2053abf5"
         },
         "jdcal": {
             "hashes": [
@@ -193,6 +193,14 @@
                 "sha256:d16a0141ec1a18405cd4ce8b4613101da75da0e9a7aec5bdd4fa804d0e0eba73"
             ],
             "version": "==1.12.0"
+        },
+        "xlrd": {
+            "hashes": [
+                "sha256:546eb36cee8db40c3eaa46c351e67ffee6eeb5fa2650b71bc4c758a29a1b29b2",
+                "sha256:e551fb498759fa3a5384a94ccd4c3c02eb7c00ea424426e212ac0c57be9dfbde"
+            ],
+            "index": "pypi",
+            "version": "==1.2.0"
         }
     },
     "develop": {}
