@@ -71,15 +71,15 @@
         },
         "hydra-base": {
             "git": "https://github.com/hydraplatform/hydra-base.git",
-            "ref": "8b28d0bbe9bd7be9cdbf532859a652bdf900db3c"
+            "ref": "ade20f43bb262eb9f1aa6538916bff391185bfb7"
         },
         "hydra-client": {
             "git": "https://github.com/hydraplatform/hydra-client-python.git",
-            "ref": "0f2389f8fd08a134eaddde1eb422caac1081b4a1"
+            "ref": "b523e852a573fa4a7fccfe86b7376723eb7753d9"
         },
         "hydra-network-utils": {
             "git": "https://github.com/hydraplatform/hydra-network-utils.git",
-            "ref": "c2666ef8200240ca1c6c9b7772b8a5485d575233"
+            "ref": "36ec1d4635446a6d8e55349f3bda4346a6f3a055"
         },
         "hydra-pywr-common": {
             "git": "https://github.com/pywr/hydra-pywr-common.git",
